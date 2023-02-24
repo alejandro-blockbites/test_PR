@@ -1,19 +1,19 @@
 ---
 Name: "Boostylabs",
 Website: "https://boostylabs.com/",
-Twitter: "https://twitter.com/BoostyLabs",
-Tags: "Software House",
-Projects: "AMLSafe,BitGo",
-OrgSize: "11-50",
+OrgSize: "",
 Specializations: "",
-POC: "",
+POC: "https://boostylabs.com/contacts",
+Projects: "",
 Address: "",
+Twitter: "https://twitter.com/BoostyLabs",
 Discord: "",
 Telegram: "",
 Architecture: "Partners",
 Segment: "Software House",
 Category: "",
 Application-Category: "",
+Tags: "Software House",
 ---
 <!--lang:en--> 
 Unlock your company or startup`s hidden growth potential with us, using Blockchain, Fintech or the Cloud.

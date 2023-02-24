@@ -1,19 +1,19 @@
 --- 
 Name: "BlockDream", 
 Website: "https://www.okx.com/blockdream-ventures", 
-Twitter: "https://twitter.com/okx", 
-Tags: "Operators",
-Projects: "AMLSafe,BitGo",
-OrgSize: "11-50",
+OrgSize: "",
 Specializations: "",
 POC: "",
+Projects: "",
 Address: "",
+Twitter: "https://twitter.com/okx", 
 Discord: "",
 Telegram: "",
 Architecture: "Partners",
 Segment: "Software House",
 Category: "",
 Application-Category: "",
+Tags: "Software House",
 --- 
 <!--lang:en--> 
 With an initial capital of $100 million, Blockdream Ventures is a fund focused on exploring high-quality projects with great potential.

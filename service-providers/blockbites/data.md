@@ -1,19 +1,19 @@
 --- 
 Name: "BlockBites", 
 Website: "https://blockbit.es/", 
-Twitter: "", 
-Tags: "Software House",
-Projects: "CasperTigers",
-OrgSize: "11-50",
+OrgSize: "",
 Specializations: "",
 POC: "",
+Projects: "CasperTigers",
 Address: "",
+Twitter: "", 
 Discord: "",
 Telegram: "",
 Architecture: "Partners",
 Segment: "Software House",
 Category: "",
 Application-Category: "",
+Tags: "Software House",
 --- 
 <!--lang:en--> 
 Blockchain. NFT. Development on Casper.

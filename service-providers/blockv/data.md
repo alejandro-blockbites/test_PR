@@ -1,19 +1,19 @@
 ---
 Name: "Blockv",
 Website: "https://blockv.io/",
-Twitter: "https://twitter.com/blockv_io",
-Tags: "Software House",
-Projects: "AMLSafe,BitGo",
-OrgSize: "11-50",
+OrgSize: "",
 Specializations: "",
 POC: "",
+Projects: "",
 Address: "",
+Twitter: "https://twitter.com/blockv_io",
 Discord: "",
 Telegram: "",
 Architecture: "Partners",
 Segment: "Software House",
 Category: "",
 Application-Category: "",
+Tags: "Software House",
 ---
 <!--lang:en--> 
 Team of Developers, NFT Wizards, Project Managers, Designers, Marketing Experts and Community Managers

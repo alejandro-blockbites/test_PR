@@ -1,20 +1,20 @@
---- 
-Name: "Ariadne", 
+---
+Name: "Ariadne",
 Website: "https://www.ariadne.swiss/", 
-Twitter: "", 
-Tags: "Software House",
-Projects: "AMLSafe,BitGo",
-OrgSize: "11-50",
+OrgSize: "",
 Specializations: "",
 POC: "",
+Projects: "",
 Address: "",
+Twitter: "", 
 Discord: "",
 Telegram: "",
 Architecture: "Partners",
 Segment: "Software House",
 Category: "",
 Application-Category: "",
---- 
+Tags: "Software House",
+---
 <!--lang:en--> 
 Disruptive banking technologies on solid ground. Fully integrated - from reinvented core banking solutions to risk management and analytical solutions.
 <!--lang:es--] 
