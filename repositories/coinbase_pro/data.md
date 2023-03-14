@@ -1,7 +1,7 @@
 ---
 Name: "coinbase_pro",
 Website: "https://github.com/sequoir/coinbase-pro",
-Project: "Sequoir",
+Projects: "Sequoir",
 ---
 <!--lang:en--> 
 test

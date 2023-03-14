@@ -1,7 +1,7 @@
 ---
 Name: "signer",
 Website: "https://github.com/casper-ecosystem/signer",
-Project: "Casper Signer",
+Projects: "Casper Signer",
 ---
 <!--lang:en--> 
 test

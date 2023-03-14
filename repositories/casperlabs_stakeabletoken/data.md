@@ -1,7 +1,7 @@
 ---
 Name: "casperlabs_stakeabletoken",
 Website: "https://github.com/Rengo-Labs/CasperLabs-StakeableToken",
-Project: "Rengo Labs",
+Projects: "Rengo Labs",
 ---
 <!--lang:en--> 
 test

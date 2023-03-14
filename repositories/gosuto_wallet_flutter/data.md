@@ -1,7 +1,7 @@
 ---
 Name: "gosuto_wallet_flutter",
 Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-flutter",
-Project: "Arcadia Group",
+Projects: "Arcadia Group",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "casper_storage",
 Website: "https://github.com/CasperDash/casper-storage",
-Project: "CasperDash",
+Projects: "CasperDash",
 ---
 <!--lang:en--> 
 test

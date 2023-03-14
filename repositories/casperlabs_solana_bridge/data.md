@@ -1,7 +1,7 @@
 ---
 Name: "casperlabs_solana_bridge",
 Website: "https://github.com/Rengo-Labs/CasperLabs-Solana-bridge",
-Project: "Rengo Labs",
+Projects: "Rengo Labs",
 ---
 <!--lang:en--> 
 test

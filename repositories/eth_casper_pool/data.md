@@ -1,7 +1,7 @@
 ---
 Name: "eth_casper_pool",
 Website: "https://github.com/Stakedllc/eth-casper-pool",
-Project: "Staked.US",
+Projects: "Staked.US",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "app_casper",
 Website: "https://github.com/LedgerHQ/app-casper",
-Project: "Ledger",
+Projects: "Ledger",
 ---
 <!--lang:en--> 
 test

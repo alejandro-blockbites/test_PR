@@ -1,7 +1,7 @@
 ---
 Name: "casper_node",
 Website: "https://github.com/casper-network/casper-node",
-Project: "Casper Labs",
+Projects: "Casper Labs",
 ---
 <!--lang:en--> 
 test

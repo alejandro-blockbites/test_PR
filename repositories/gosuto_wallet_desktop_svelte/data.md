@@ -1,7 +1,7 @@
 ---
 Name: "gosuto_wallet_desktop_svelte",
 Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-desktop-svelte",
-Project: "Arcadia Group",
+Projects: "Arcadia Group",
 ---
 <!--lang:en--> 
 test

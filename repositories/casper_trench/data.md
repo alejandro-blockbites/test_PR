@@ -1,7 +1,7 @@
 ---
 Name: "casper_trench",
 Website: "https://github.com/TheArcadiaGroup/casper-trench",
-Project: "Gosuto",
+Projects: "Gosuto",
 ---
 <!--lang:en--> 
 test

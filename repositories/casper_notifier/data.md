@@ -1,7 +1,7 @@
 ---
 Name: "casper_notifier",
 Website: "https://github.com/everstake/casper-notifier",
-Project: "Everstake",
+Projects: "Everstake",
 ---
 <!--lang:en--> 
 test

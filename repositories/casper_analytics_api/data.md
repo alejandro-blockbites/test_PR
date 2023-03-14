@@ -1,7 +1,7 @@
 ---
 Name: "casper_analytics_api",
 Website: "https://github.com/caspercommunityio/casper-analytics-api",
-Project: "Caspercommunity.io",
+Projects: "Caspercommunity.io",
 ---
 <!--lang:en--> 
 test

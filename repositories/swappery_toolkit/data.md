@@ -1,7 +1,7 @@
 ---
 Name: "swappery_toolkit",
 Website: "https://github.com/swappery/swappery-toolkit",
-Project: "Swappery",
+Projects: "Swappery",
 ---
 <!--lang:en--> 
 test

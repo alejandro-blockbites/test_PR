@@ -1,7 +1,7 @@
 ---
 Name: "casper_java_sdk",
 Website: "https://github.com/casper-network/casper-java-sdk",
-Project: "Casper Labs",
+Projects: "Casper Labs",
 ---
 <!--lang:en--> 
 test

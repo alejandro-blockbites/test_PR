@@ -1,7 +1,7 @@
 ---
 Name: "casper_erc20",
 Website: "https://github.com/FriendlyMarket/casper-erc20",
-Project: "Friendly Market",
+Projects: "Friendly Market",
 ---
 <!--lang:en--> 
 test

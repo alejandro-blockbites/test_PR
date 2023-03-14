@@ -1,7 +1,7 @@
 ---
 Name: "dao_contracts",
 Website: "https://github.com/make-software/dao-contracts",
-Project: "Make Services",
+Projects: "Make Services",
 ---
 <!--lang:en--> 
 test

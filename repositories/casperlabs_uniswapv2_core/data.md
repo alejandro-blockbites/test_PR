@@ -1,7 +1,7 @@
 ---
 Name: "casperlabs_uniswapv2_core",
 Website: "https://github.com/Rengo-Labs/CasperLabs-UniswapV2-Core",
-Project: "Casper Swap",
+Projects: "Casper Swap",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "harmony_dao",
 Website: "https://github.com/MinorityProgrammers/harmony-dao",
-Project: "MinorityProgrammers",
+Projects: "MinorityProgrammers",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "caspersign_signer_ui",
 Website: "https://github.com/chronologic/caspersign-signer-ui",
-Project: "CasperSign",
+Projects: "CasperSign",
 ---
 <!--lang:en--> 
 test

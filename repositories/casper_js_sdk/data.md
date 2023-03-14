@@ -1,7 +1,7 @@
 ---
 Name: "Casper JS SDK",
 Website: "https://github.com/casper-ecosystem/casper-js-sdk",
-Project: "TypeScript Casper Client SDK",
+Projects: "TypeScript Casper Client SDK",
 ---
 <!--lang:en--> 
 CasperLabs SDK for JavaScript

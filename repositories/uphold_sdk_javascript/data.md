@@ -1,7 +1,7 @@
 ---
 Name: "uphold_sdk_javascript",
 Website: "https://github.com/uphold/uphold-sdk-javascript",
-Project: "Uphold",
+Projects: "Uphold",
 ---
 <!--lang:en--> 
 test

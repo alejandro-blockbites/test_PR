@@ -1,7 +1,7 @@
 ---
 Name: "bitcat_repo",
 Website: "https://github.com/ENFP-Dev-Studio/bitcat",
-Project: "BitCat",
+Projects: "BitCat",
 ---
 <!--lang:en--> 
 test

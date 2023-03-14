@@ -1,7 +1,7 @@
 ---
 Name: "multiswap",
 Website: "https://github.com/ferrumnet/MultiSwap",
-Project: "Ferrum Network",
+Projects: "Ferrum Network",
 ---
 <!--lang:en--> 
 test

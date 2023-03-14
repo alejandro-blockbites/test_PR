@@ -1,7 +1,7 @@
 ---
 Name: "blockmatcher_frontend",
 Website: "https://github.com/ledgerleapllc/blockmatcher-frontend",
-Project: "LedgerLeap",
+Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
 test

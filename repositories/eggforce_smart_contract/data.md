@@ -1,7 +1,7 @@
 ---
 Name: "eggforce_smart_contract",
 Website: "https://github.com/CasperDash/eggforce-smart-contract",
-Project: "EggForce",
+Projects: "EggForce",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "bridge_interface",
 Website: "https://github.com/XP-NETWORK/bridge-interface",
-Project: "Xp.Network",
+Projects: "Xp.Network",
 ---
 <!--lang:en--> 
 test

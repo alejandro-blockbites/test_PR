@@ -1,7 +1,7 @@
 ---
 Name: "casper_php_sdk",
 Website: "https://github.com/make-software/casper-php-sdk",
-Project: "Make Services",
+Projects: "Make Services",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "cleareststake_frontend",
 Website: "https://github.com/ledgerleapllc/cleareststake-frontend",
-Project: "LedgerLeap",
+Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
 test

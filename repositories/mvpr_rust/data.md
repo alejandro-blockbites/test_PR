@@ -1,7 +1,7 @@
 ---
 Name: "mvpr_rust",
 Website: "https://github.com/DEVxDAO/MVPR-Rust",
-Project: "DevXDao",
+Projects: "DevXDao",
 ---
 <!--lang:en--> 
 test

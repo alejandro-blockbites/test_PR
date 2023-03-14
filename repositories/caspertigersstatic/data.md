@@ -1,7 +1,7 @@
 ---
 Name: "caspertigersstatic",
 Website: "https://github.com/casper-ecosystem/CasperTigersStatic",
-Project: "CasperTigers",
+Projects: "CasperTigers",
 ---
 <!--lang:en--> 
 test

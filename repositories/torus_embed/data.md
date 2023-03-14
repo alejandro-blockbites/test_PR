@@ -1,7 +1,7 @@
 ---
 Name: "torus_embed",
 Website: "https://github.com/torusresearch/torus-embed",
-Project: "Torus Wallet",
+Projects: "Torus Wallet",
 ---
 <!--lang:en--> 
 test

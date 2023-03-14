@@ -1,7 +1,7 @@
 ---
 Name: "bridge_ui",
 Website: "https://github.com/dotoracle/bridge-ui",
-Project: "DotOracle",
+Projects: "DotOracle",
 ---
 <!--lang:en--> 
 test

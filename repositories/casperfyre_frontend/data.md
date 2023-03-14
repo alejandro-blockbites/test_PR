@@ -1,7 +1,7 @@
 ---
 Name: "casperfyre_frontend",
 Website: "https://github.com/ledgerleapllc/casperfyre-frontend",
-Project: "LedgerLeap",
+Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
 test

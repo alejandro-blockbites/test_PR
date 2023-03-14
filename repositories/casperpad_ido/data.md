@@ -1,7 +1,7 @@
 ---
 Name: "casperpad_ido",
 Website: "https://github.com/casperpad/casperpad-ido",
-Project: "CasperPad",
+Projects: "CasperPad",
 ---
 <!--lang:en--> 
 test

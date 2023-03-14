@@ -1,7 +1,7 @@
 ---
 Name: "kunft_marketplace_frontend",
 Website: "https://github.com/casperpad/kunft-marketplace-frontend",
-Project: "Kunft Marketplace",
+Projects: "Kunft Marketplace",
 ---
 <!--lang:en--> 
 test

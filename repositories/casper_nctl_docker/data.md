@@ -1,7 +1,7 @@
 ---
 Name: "casper_nctl_docker",
 Website: "https://github.com/make-software/casper-nctl-docker",
-Project: "Make Services",
+Projects: "Make Services",
 ---
 <!--lang:en--> 
 test

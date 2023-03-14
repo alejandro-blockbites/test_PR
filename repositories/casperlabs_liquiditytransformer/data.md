@@ -1,7 +1,7 @@
 ---
 Name: "casperlabs_liquiditytransformer",
 Website: "https://github.com/Rengo-Labs/CasperLabs-LiquidityTransformer",
-Project: "Rengo Labs",
+Projects: "Rengo Labs",
 ---
 <!--lang:en--> 
 test

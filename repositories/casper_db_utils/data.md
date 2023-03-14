@@ -1,7 +1,7 @@
 ---
 Name: "casper_db_utils",
 Website: "https://github.com/casper-network/casper-db-utils",
-Project: "Casper Labs",
+Projects: "Casper Labs",
 ---
 <!--lang:en--> 
 test

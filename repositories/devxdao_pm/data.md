@@ -1,7 +1,7 @@
 ---
 Name: "devxdao_pm",
 Website: "https://github.com/ledgerleapllc/devxdao-pm",
-Project: "LedgerLeap",
+Projects: "LedgerLeap",
 ---
 <!--lang:en--> 
 test

@@ -1,7 +1,7 @@
 ---
 Name: "casperdash_client",
 Website: "https://github.com/CasperDash/casperdash-client",
-Project: "CasperDash",
+Projects: "CasperDash",
 ---
 <!--lang:en--> 
 test

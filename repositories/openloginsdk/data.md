@@ -1,7 +1,7 @@
 ---
 Name: "openloginsdk",
 Website: "https://github.com/torusresearch/OpenLoginSdk",
-Project: "Torus Wallet",
+Projects: "Torus Wallet",
 ---
 <!--lang:en--> 
 test

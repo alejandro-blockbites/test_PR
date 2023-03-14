@@ -1,7 +1,7 @@
 ---
 Name: "casperstats_backend",
 Website: "https://github.com/grindytech/casperstats-backend",
-Project: "Casper Stats",
+Projects: "Casper Stats",
 ---
 <!--lang:en--> 
 test

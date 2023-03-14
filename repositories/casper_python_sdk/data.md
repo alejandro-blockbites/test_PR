@@ -1,7 +1,7 @@
 ---
 Name: "casper_python_sdk",
 Website: "https://github.com/casper-network/casper-python-sdk",
-Project: "Casper Labs",
+Projects: "Casper Labs",
 ---
 <!--lang:en--> 
 test
