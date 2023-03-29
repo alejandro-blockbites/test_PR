@@ -1,10 +1,10 @@
 ---
 Name: "casper_python_sdk",
 Website: "https://github.com/casper-network/casper-python-sdk",
-Projects: "Casper Labs",
+Projects: "Python Casper Client SDK, Casper Blockchain",
 ---
 <!--lang:en--> 
-test
+Python library for interacting with a CSPR node
 <!--lang:es--] 
 test
 <!--lang:de--] 

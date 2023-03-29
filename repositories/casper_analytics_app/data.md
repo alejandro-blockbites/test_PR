@@ -4,7 +4,7 @@ Website: "https://github.com/caspercommunityio/casper-analytics-app",
 Projects: "Casper Analytics",
 ---
 <!--lang:en--> 
-test
+Frontend for the Casper Analytics App
 <!--lang:es--] 
 test
 <!--lang:de--] 

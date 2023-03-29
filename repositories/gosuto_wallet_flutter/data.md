@@ -1,10 +1,10 @@
 ---
 Name: "gosuto_wallet_flutter",
 Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-flutter",
-Projects: "Arcadia Group",
+Projects: "Gosuto",
 ---
 <!--lang:en--> 
-test
+Gosuto Mobile Wallet Implementation using Flutter
 <!--lang:es--] 
 test
 <!--lang:de--] 

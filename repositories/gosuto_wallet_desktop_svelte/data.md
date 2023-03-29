@@ -1,10 +1,10 @@
 ---
 Name: "gosuto_wallet_desktop_svelte",
 Website: "https://github.com/TheArcadiaGroup/gosuto-wallet-desktop-svelte",
-Projects: "Arcadia Group",
+Projects: "Gosuto",
 ---
 <!--lang:en--> 
-test
+Gosuto Desktop App, private repo for development, eventually publishes to "GosutoWallet" public repo
 <!--lang:es--] 
 test
 <!--lang:de--] 

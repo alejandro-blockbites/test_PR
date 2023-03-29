@@ -1,10 +1,10 @@
 ---
 Name: "casper_php_sdk",
 Website: "https://github.com/make-software/casper-php-sdk",
-Projects: "Make Services",
+Projects: "PHP Casper Client SDK , Casper Blockchain",
 ---
 <!--lang:en--> 
-test
+PHP SDK to interact with the Casper Network nodes via RPC
 <!--lang:es--] 
 test
 <!--lang:de--] 
