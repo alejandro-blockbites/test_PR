@@ -5,7 +5,7 @@ Service-Provider: "BlockBites"
 Status: "Accepted",
 Grant-Link: "https://portal.devxdao.com/app/proposal/793",
 Website: "www.fondant.io",
-Grant-Size:	"75000 EUR",
+Grant-Size: "75000 EUR",
 Total-Milestones: "5",
 Current-Milestone: "M1",
 M1: "01.05.2023",
