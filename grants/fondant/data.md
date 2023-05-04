@@ -16,7 +16,7 @@ M5: "01.10.2023",
 Twitter: "",
 Public-Project-Chat: "",
 Casper-PM: "https://github.com/devendran-m",
-Project-GitHub-Repo: "https://github.com/casper-ecosystem/fontant",
+Project-GitHub-Repo: "https://github.com/block-bites/foundant-app",
 ---
 <!--lang:en--> 
 Fondant is an Ganache equivalent in Casper Ecosystem: Quickly fire up a personal Casper network on your machine.
