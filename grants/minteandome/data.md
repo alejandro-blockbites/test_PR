@@ -8,7 +8,7 @@ Website: "https://minteando.me/",
 Grant-Size: "75000 EUR",
 Total-Milestones: "3",
 Current-Milestone: "M1",
-M1: "10.04.2023","Complete"
+M1: "10.04.2023","Complete",
 M2: "15.05.2023","In review",
 M3: "15.06.2023","In progress",
 Twitter: "https://twitter.com/minteandome",
