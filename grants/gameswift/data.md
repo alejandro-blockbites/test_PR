@@ -1,27 +1,26 @@
 ---
-Grant-Number: "793",
+Grant-Number: "774",
 Name: "Gameswift",
-Service-Provider: "BlockBites",
+Service-Provider: "",
 Status: "In-progress",
-Grant-Link: "https://portal.devxdao.com/app/proposal/793",
-Website: "https://fondant.io/",
-Grant-Size: "75000 EUR",
-Total-Milestones: "5",
-Current-Milestone: "M1",
-M1: "05.06.2023","In progress"
-M2: "03.07.2023","",
-M3: "01.08.2023","",
-M4: "02.10.2023","",
-M5: "01.11.2023","",
+Grant-Link: "https://portal.devxdao.com/app/proposal/774",
+Website: "",
+Grant-Size: "50000 EUR",
+Total-Milestones: "4",
+Current-Milestone: "M4",
+M1: "01.03.2023","In review",
+M2: "15.03.2023","In review",
+M3: "15.04.2023","In review",
+M4: "30.04.2023","In progress",
 Twitter: "",
 Public-Project-Chat: "",
-Casper-PM: "https://github.com/devendran-m",
-Project-GitHub-Repo: "https://github.com/block-bites/foundant-app",
+Casper-PM: "https://github.com/piotr-dziubecki",
+Project-GitHub-Repo: "",
 ---
 <!--lang:en--> 
 GameSwift is one-stop shop gaming ecosystem allowing gamers to play web3 games without having to know how to use blockchain. GameSwift Platform delivers a user-friendly environment where the player doesn't need to know how to handle blockchain operations as they are all processed underneath without the need for their intervention.
 <!--lang:es--] 
-GameSwift es un ecosistema de juegos de ventanilla única que permite a los jugadores jugar juegos web3 sin tener que saber cómo usar blockchain. GameSwift Platform ofrece un entorno fácil de usar en el que el jugador no necesita saber cómo manejar las operaciones de la cadena de bloques, ya que todas se procesan por debajo sin necesidad de su intervención. 
+GameSwift es un ecosistema de juegos de ventanilla única que permite a los jugadores jugar juegos web3 sin tener que saber cómo usar blockchain. GameSwift Platform ofrece un entorno fácil de usar en el que el jugador no necesita saber cómo manejar las operaciones de la cadena de bloques, ya que todas se procesan por debajo sin necesidad de su intervención.
 <!--lang:de--] 
 GameSwift ist ein One-Stop-Shop-Gaming-Ökosystem, das es Spielern ermöglicht, Web3-Spiele zu spielen, ohne über Blockchain-Kenntnisse verfügen zu müssen. Die GameSwift-Plattform bietet eine benutzerfreundliche Umgebung, in der der Spieler nicht wissen muss, wie er mit Blockchain-Vorgängen umgeht, da diese alle darunter verarbeitet werden, ohne dass sein Eingreifen erforderlich ist.
 <!--lang:fr--] 
