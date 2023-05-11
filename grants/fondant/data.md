@@ -1,6 +1,6 @@
 ---
 Grant-Number: "793",
-Name: "Gameswift",
+Name: "Fondant",
 Service-Provider: "BlockBites",
 Status: "In-progress",
 Grant-Link: "https://portal.devxdao.com/app/proposal/793",
