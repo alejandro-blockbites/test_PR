@@ -8,7 +8,7 @@ Website: "https://fondant.io/",
 Grant-Size: "75000 EUR",
 Total-Milestones: "5",
 Current-Milestone: "M1",
-M1: "05.06.2023","In progress"
+M1: "05.06.2023","In progress",
 M2: "03.07.2023","",
 M3: "01.08.2023","",
 M4: "02.10.2023","",
