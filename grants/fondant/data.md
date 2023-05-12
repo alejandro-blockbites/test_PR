@@ -19,15 +19,29 @@ Casper-PM: "https://github.com/devendran-m",
 Project-GitHub-Repo: "https://github.com/block-bites/foundant-app",
 ---
 <!--lang:en--> 
-GameSwift is one-stop shop gaming ecosystem allowing gamers to play web3 games without having to know how to use blockchain. GameSwift Platform delivers a user-friendly environment where the player doesn't need to know how to handle blockchain operations as they are all processed underneath without the need for their intervention.
+Fondant: Ganache-like testing environment for Casper blockchain.
+
+As we are developing Casper blockchain apps, recently FriendlySoccer.io, we've noticed the need for an integrated testing environment. We need the Ganache
+equivalent in Casper Ecosystem: Quickly fire up a personal Casper network on your machine. You can run tests, explore blocks, and inspect the state while
+controlling how the chain operates. Everything is wrapped up in a clean and intuitive UI.
 <!--lang:es--] 
-GameSwift es un ecosistema de juegos de ventanilla única que permite a los jugadores jugar juegos web3 sin tener que saber cómo usar blockchain. GameSwift Platform ofrece un entorno fácil de usar en el que el jugador no necesita saber cómo manejar las operaciones de la cadena de bloques, ya que todas se procesan por debajo sin necesidad de su intervención. 
+Fondant: entorno de prueba similar a Ganache para Casper blockchain. 
+
+A medida que desarrollamos aplicaciones de cadena de bloques de Casper, recientemente FriendlySoccer.io, notamos la necesidad de un entorno de prueba integrado. Necesitamos el equivalente de Ganache en Casper Ecosystem: encienda rápidamente una red Casper personal en su máquina. Puede ejecutar pruebas, explorar bloques e inspeccionar el estado mientras controla el funcionamiento de la cadena. Todo está envuelto en una interfaz de usuario limpia e intuitiva.
 <!--lang:de--] 
-GameSwift ist ein One-Stop-Shop-Gaming-Ökosystem, das es Spielern ermöglicht, Web3-Spiele zu spielen, ohne über Blockchain-Kenntnisse verfügen zu müssen. Die GameSwift-Plattform bietet eine benutzerfreundliche Umgebung, in der der Spieler nicht wissen muss, wie er mit Blockchain-Vorgängen umgeht, da diese alle darunter verarbeitet werden, ohne dass sein Eingreifen erforderlich ist.
+Fondant: Ganache-ähnliche Testumgebung für die Casper-Blockchain. 
+
+Während wir Casper-Blockchain-Apps entwickeln, kürzlich FriendlySoccer.io, haben wir den Bedarf an einer integrierten Testumgebung festgestellt. Wir brauchen das Ganache-Äquivalent im Casper-Ökosystem: Starten Sie schnell ein persönliches Casper-Netzwerk auf Ihrem Computer. Sie können Tests ausführen, Blöcke erkunden und den Status überprüfen, während Sie gleichzeitig steuern, wie die Kette funktioniert. Alles ist in einer übersichtlichen und intuitiven Benutzeroberfläche zusammengefasst.
 <!--lang:fr--] 
-GameSwift est un écosystème de jeu à guichet unique permettant aux joueurs de jouer à des jeux Web3 sans avoir à savoir comment utiliser la blockchain. GameSwift Platform offre un environnement convivial où le joueur n'a pas besoin de savoir comment gérer les opérations de la blockchain car elles sont toutes traitées en dessous sans avoir besoin de leur intervention.
+Fondant : environnement de test de type ganache pour la blockchain de Casper. 
+
+Alors que nous développons des applications blockchain Casper, récemment FriendlySoccer.io, nous avons remarqué le besoin d'un environnement de test intégré. Nous avons besoin de l'équivalent de Ganache dans Casper Ecosystem : lancez rapidement un réseau Casper personnel sur votre machine. Vous pouvez exécuter des tests, explorer des blocs et inspecter l'état tout en contrôlant le fonctionnement de la chaîne. Tout est emballé dans une interface utilisateur propre et intuitive.
 <!--lang:pl--] 
-GameSwift to kompleksowy ekosystem gier umożliwiający graczom granie w gry web3 bez konieczności korzystania z blockchain. Platforma GameSwift zapewnia przyjazne dla użytkownika środowisko, w którym gracz nie musi wiedzieć, jak obsługiwać operacje blockchain, ponieważ wszystkie są przetwarzane pod spodem bez potrzeby ich interwencji.
+Fondant: środowisko testowe podobne do Ganache dla Casper blockchain. 
+
+Podczas opracowywania aplikacji blockchain firmy Casper, ostatnio FriendlySoccer.io, zauważyliśmy potrzebę zintegrowanego środowiska testowego. Potrzebujemy odpowiednika Ganache w Casper Ecosystem: Szybko uruchom osobistą sieć Casper na swojej maszynie. Możesz przeprowadzać testy, eksplorować bloki i sprawdzać stan, kontrolując działanie łańcucha. Wszystko jest opakowane w przejrzysty i intuicyjny interfejs użytkownika.
 <!--lang:uk--] 
-GameSwift — це універсальна ігрова екосистема, яка дозволяє геймерам грати в ігри web3, не знаючи, як використовувати блокчейн. Платформа GameSwift забезпечує зручне середовище, де гравцеві не потрібно знати, як обробляти операції блокчейну, оскільки всі вони обробляються всередині без необхідності його втручання.
+Fondant: схоже на Ganache середовище тестування для блокчейну Casper. 
+
+Оскільки ми розробляємо блокчейн-додатки Casper, нещодавно FriendlySoccer.io, ми помітили потребу в інтегрованому середовищі тестування. Нам потрібен еквівалент Ganache в екосистемі Casper: швидко запустіть персональну мережу Casper на вашій машині. Ви можете запускати тести, досліджувати блоки та перевіряти стан, одночасно контролюючи роботу ланцюжка. Все укладено в простий та інтуїтивно зрозумілий інтерфейс користувача.
 [!--lang:*-->  
