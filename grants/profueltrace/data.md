@@ -9,7 +9,7 @@ Grant-Size: "100000 EUR",
 Total-Milestones: "4",
 Current-Milestone: "M1",
 M1: "25.03.2023","In review",
-M2: "25.05.2023","In progress"
+M2: "25.05.2023","In progress",
 M3: "15.06.2023","",
 M4: "15.07.2023","",
 Twitter: "",
