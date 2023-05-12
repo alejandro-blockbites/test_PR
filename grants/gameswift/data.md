@@ -2,7 +2,7 @@
 Grant-Number: "774",
 Name: "Gameswift",
 Service-Provider: "",
-Status: "In-progress",
+Status: "In progress",
 Grant-Link: "https://portal.devxdao.com/app/proposal/774",
 Website: "",
 Grant-Size: "50000 EUR",
