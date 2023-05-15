@@ -1,6 +1,6 @@
 ---
 Grant-Number: "719",
-Name: "XP.NETWORK Multi-Chain NFT Bridge",
+Name: "XP.NETWORK",
 Service-Provider: "Xp.Network",
 Status: "In progress",
 Grant-Link: "https://portal.devxdao.com/app/proposal/719",
