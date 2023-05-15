@@ -1,6 +1,6 @@
 ---
 Grant-Number: "776",
-Name: "Mlem - NFT Membership Platform",
+Name: "Mlem",
 Service-Provider: "",
 Status: "Accepted",
 Grant-Link: "https://portal.devxdao.com/app/proposal/776",
