@@ -1,6 +1,6 @@
 ---
 Grant-Number: "805",
-Name: "Dappium - No-code Web3 Platform",
+Name: "Dappium",
 Service-Provider: "",
 Status: "Accepted",
 Grant-Link: "https://portal.devxdao.com/app/proposal/805",
