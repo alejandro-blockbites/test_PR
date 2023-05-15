@@ -1,6 +1,6 @@
 ---
 Grant-Number: "751",
-Name: "NiftyRow NFT & Security Tokens Marketplace",
+Name: "NiftyRow",
 Service-Provider: "NiftyRow",
 Status: "Accepted",
 Grant-Link: "https://portal.devxdao.com/app/proposal/751",
