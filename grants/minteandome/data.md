@@ -1,7 +1,7 @@
 ---
 Grant-Number: "707",
 Name: "Minteandome NFT",
-Service-Provider: "Minteandome",
+Service-Provider: "",
 Status: "In progress",
 Grant-Link: "https://portal.devxdao.com/app/proposal/707",
 Website: "https://minteando.me/",
