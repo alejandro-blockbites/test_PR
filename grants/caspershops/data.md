@@ -1,7 +1,7 @@
 ---
 Grant-Number: "718",
 Name: "Casper Shops",
-Service-Provider: "Flatlay",
+Service-Provider: "",
 Status: "Accepted",
 Grant-Link: "https://portal.devxdao.com/app/proposal/718",
 Website: "",
