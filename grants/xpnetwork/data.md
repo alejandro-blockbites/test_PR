@@ -1,7 +1,7 @@
 ---
 Grant-Number: "719",
 Name: "XP.NETWORK",
-Service-Provider: "Xp.Network",
+Service-Provider: "",
 Status: "In progress",
 Grant-Link: "https://portal.devxdao.com/app/proposal/719",
 Website: "",
