@@ -1,27 +1,27 @@
----
-Name: "Zbyte",
-Website: "https://zbyte.io/",
-Twitter: "https://twitter.com/zbyte_io",
-Architecture: "Partners",
-Segment: "P-Other",
-Category: "",
-Application-Category: "",
-Tags: "Partner",
-Contact: "https://zbyte.io/contact-us/",
-Project-Status: "Not Live - In Development",
+--- 
+Name: "Zbyte", 
+Website: "https://zbyte.com/", 
+Twitter: "https://twitter.com/zbyte_iodsdasdas",
+Architecture: "User & Access Layer",
+Segment: "NFT",
+Category: "Real World Solution (CSPR)",
+Application-Category: "Identity",
+Tags: "NFT",
+Contact: "dsads@EDSFSA.FDSFD",
+Project-Status: "Testing TestNet",
 Contract-Hashes-Main: "",
-Contract-Hashes-Test: "",
----
+Contract-Hashes-Test: "dsadsdsadgdsgdsagfdagfdagadfgdfsgfdgdfsgsdfgdfsgsdgdsgsdgdsdgdfd",
+--- 
 <!--lang:en--> 
 Simplifying dApp creation and usage for all
 <!--lang:es--] 
-Simplificando la creación y el uso de dApp para todos
+
 <!--lang:de--] 
-Vereinfachung der dApp-Erstellung und -Nutzung für alle
+
 <!--lang:fr--] 
-Simplifier la création et l'utilisation de dApp pour tous
+
 <!--lang:pl--] 
-Uproszczenie tworzenia i używania aplikacji dApp dla wszystkich
+
 <!--lang:uk--] 
-Спрощення створення та використання dApp для всіх
-[!--lang:*-->  
+
+[!--lang:*--> 
