@@ -1,27 +1,27 @@
 --- 
 Name: "APOC", 
 Website: "https://apocnft.com/", 
-Twitter: "https://mobile.twitter.com/apocnft", 
+Twitter: "",
 Architecture: "User & Access Layer",
 Segment: "NFT",
-Category: "Marketplace",
-Application-Category: "",
+Category: "Collectible Project",
+Application-Category: "Artwork",
 Tags: "NFT",
-Contact: "",
-Project-Status: "Not Live - In Development",
+Contact: "dsfads@fdsfsd.fdsfs",
+Project-Status: "Development",
 Contract-Hashes-Main: "",
 Contract-Hashes-Test: "",
 --- 
 <!--lang:en--> 
-An apocalyptic Metaverse is coming to the Casper Network
+New description
 <!--lang:es--] 
-Un metaverso apocalíptico llega a Casper Network
+
 <!--lang:de--] 
-Eine apokalyptische Metaverse kommt ins Casper-Netzwerk
+
 <!--lang:fr--] 
-Un métaverse apocalyptique arrive sur le réseau Casper
+
 <!--lang:pl--] 
-Apokaliptyczny Metaverse nadchodzi do Casper Network
+
 <!--lang:uk--] 
-Апокаліптичний метавсесвіт наближається до мережі Casper
+
 [!--lang:*--> 
